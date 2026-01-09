@@ -1,2 +1,2 @@
-# CSCI-2360-Fall-2025
+# CSCI-2360
 Introduction to Software Engineering
